@@ -1,0 +1,7 @@
+{
+  "name": "Multi Monitor Top Bar",
+  "description": "Displays the top bar on all monitors",
+  "uuid": "multi-monitor-top-bar",
+  "version": 1,
+  "shell-version": ["45"]
+}
